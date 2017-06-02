@@ -26,4 +26,4 @@ before_install:
  
 after_success:
     -docker login -u="justforexwa" -p="ahdgmypnd20"
-    -docker push justforexwa/justforex-main-
+    -docker push justforexwa/justforex-main
